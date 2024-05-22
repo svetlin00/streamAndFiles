@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Streams, Files and Directories - Lab/1.0.0": {
+        "runtime": {
+          "Streams, Files and Directories - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Streams, Files and Directories - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\bin\Debug\net6.0\03WordCount.exe
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\bin\Debug\net6.0\03WordCount.deps.json
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\bin\Debug\net6.0\03WordCount.runtimeconfig.json
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\bin\Debug\net6.0\03WordCount.dll
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\bin\Debug\net6.0\03WordCount.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.csproj.AssemblyReference.cache
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.AssemblyInfoInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.AssemblyInfo.cs
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.csproj.CoreCompileInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.dll
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\refint\03WordCount.dll
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\03WordCount.genruntimeconfig.cache
+C:\Users\ergel\source\repos\01. Odd Lines\03WordCount\obj\Debug\net6.0\ref\03WordCount.dll

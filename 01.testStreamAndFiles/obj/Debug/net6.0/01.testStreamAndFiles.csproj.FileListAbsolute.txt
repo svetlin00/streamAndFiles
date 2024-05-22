@@ -1,0 +1,15 @@
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\bin\Debug\net6.0\01.testStreamAndFiles.exe
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\bin\Debug\net6.0\01.testStreamAndFiles.deps.json
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\bin\Debug\net6.0\01.testStreamAndFiles.runtimeconfig.json
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\bin\Debug\net6.0\01.testStreamAndFiles.dll
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\bin\Debug\net6.0\01.testStreamAndFiles.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.csproj.AssemblyReference.cache
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.AssemblyInfoInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.AssemblyInfo.cs
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.dll
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\refint\01.testStreamAndFiles.dll
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\01.testStreamAndFiles.genruntimeconfig.cache
+C:\Users\ergel\source\repos\01. Odd Lines\01.testStreamAndFiles\obj\Debug\net6.0\ref\01.testStreamAndFiles.dll

@@ -1,0 +1,15 @@
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\bin\Debug\net6.0\Streams, Files and Directories - Lab.exe
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\bin\Debug\net6.0\Streams, Files and Directories - Lab.deps.json
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\bin\Debug\net6.0\Streams, Files and Directories - Lab.runtimeconfig.json
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\bin\Debug\net6.0\Streams, Files and Directories - Lab.dll
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\bin\Debug\net6.0\Streams, Files and Directories - Lab.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.csproj.AssemblyReference.cache
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.AssemblyInfoInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.AssemblyInfo.cs
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.csproj.CoreCompileInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.dll
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\refint\Streams, Files and Directories - Lab.dll
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\Streams, Files and Directories - Lab.genruntimeconfig.cache
+C:\Users\ergel\source\repos\01. Odd Lines\Streams, Files and Directories - Lab\obj\Debug\net6.0\ref\Streams, Files and Directories - Lab.dll

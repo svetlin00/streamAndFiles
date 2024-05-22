@@ -1,0 +1,15 @@
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\bin\Debug\net6.0\02.LineNumber.exe
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\bin\Debug\net6.0\02.LineNumber.deps.json
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\bin\Debug\net6.0\02.LineNumber.runtimeconfig.json
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\bin\Debug\net6.0\02.LineNumber.dll
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\bin\Debug\net6.0\02.LineNumber.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.csproj.AssemblyReference.cache
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.AssemblyInfoInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.AssemblyInfo.cs
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.csproj.CoreCompileInputs.cache
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.dll
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\refint\02.LineNumber.dll
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.pdb
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\02.LineNumber.genruntimeconfig.cache
+C:\Users\ergel\source\repos\01. Odd Lines\02.LineNumber\obj\Debug\net6.0\ref\02.LineNumber.dll
